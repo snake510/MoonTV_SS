@@ -2,6 +2,7 @@ name: Upstream Sync
 
 on:
   schedule:
+    - cron: "0 4 * * *" # At 12PM UTC+8
     - cron: "0 */6 * * *" # run every 6 hours
   workflow_dispatch:
 
