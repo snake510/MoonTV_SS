@@ -153,6 +153,10 @@
       "api": "https://lovedan.net/api.php/provide/vod",
       "name": "艾旦影视"
     },
+    "shandianzy.com": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
     "91md.me": {
       "api": "https://91md.me/api.php/provide/vod",
       "name": "🔞麻豆视频"
