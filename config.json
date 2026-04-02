@@ -40,11 +40,6 @@
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源"
     },
-    "jisu": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
-      "detail": "https://jszyapi.com"
-    },
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
@@ -93,18 +88,6 @@
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "name": "豆瓣资源"
     },
-    "mtzy.me": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
-    },
-    "ikunzy.com": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
-    },
-    "dyttzyapi.com": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂"
-    },
     "www.maoyanzy.com": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "name": "猫眼资源"
@@ -117,29 +100,9 @@
       "api": "https://360zyzz.com/api.php/provide/vod",
       "name": "360 资源"
     },
-    "jszyapi.com": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源"
-    },
-    "www.moduzy.net": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
-    },
     "ffzyapi.com": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "name": "非凡资源"
-    },
-    "bfzy.tv": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
-    },
-    "zuida.xyz": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
-    },
-    "wujinzy.me": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "无尽资源"
     },
     "xinlangapi.com": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -177,20 +140,16 @@
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "name": "魔都动漫"
     },
-    "www.ryzyw.com": {
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
-    },
     "www.haohuazy.com": {
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     },
     "bdzy1.com": {
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度云zy"
     },
     "lovedan.net": {
-      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "api": "https://lovedan.net/api.php/provide/vod",
       "name": "艾旦影视"
     },
     "91md.me": {
@@ -250,7 +209,7 @@
       "name": "🔞森林资源"
     },
     "apilj.com": {
-      "api": "https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod",
+      "api": "https://apilj.com/api.php/provide/vod",
       "name": "🔞辣椒资源"
     },
     "shayuapi.com": {
