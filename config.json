@@ -140,18 +140,6 @@
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "name": "魔都动漫"
     },
-    "www.haohuazy.com": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
-    },
-    "bdzy1.com": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度云zy"
-    },
-    "lovedan.net": {
-      "api": "https://lovedan.net/api.php/provide/vod",
-      "name": "艾旦影视"
-    },
     "yayazy3.com": {
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "name": "鸭鸭资源"
@@ -229,7 +217,6 @@
       "name": "🔞鲨鱼资源"
     },
     "doudouzy.com": {
-      "_comment": " 不稳定 ",
       "api": "https://api.douapi.cc/api.php/provide/vod",
       "name": "🔞豆豆资源"
     },
@@ -254,7 +241,6 @@
       "name": "🔞精品资源"
     },
     "ckzy.me": {
-      "_comment": "无搜索结果",
       "api": "https://ckzy.me/api.php/provide/vod",
       "name": "🔞 CK-资源"
     },
@@ -263,52 +249,42 @@
       "name": "🔞souavZY"
     },
     "www.xxibaozyw.com": {
-      "_comment": "无搜索结果",
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "🔞细胞资源"
     },
     "xiangjiaozyw.com": {
-      "_comment": "无搜索结果",
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "name": "🔞香蕉资源"
     },
     "www.msnii.com": {
-      "_comment": "无法搜索",
       "api": "https://www.msnii.com/api/json.php",
       "name": "🔞-美少女-"
     },
     "www.pgxdy.com": {
-      "_comment": "无法搜索",
       "api": "https://www.pgxdy.com/api/json.php",
       "name": "🔞-黄AVZY"
     },
     "www.kxgav.com": {
-      "_comment": "无法搜索",
       "api": "https://www.kxgav.com/api/json.php",
       "name": "🔞白嫖资源"
     },
     "xingba111.com": {
-      "_comment": "403 Forbidden",
       "api": "https://xingba222.com/api.php/provide/vod",
       "name": "🔞杏吧资源"
     },
     "dadizy11.com": {
-      "_comment": "污染搜索结果",
       "api": "https://dadiapi.com/feifei",
       "name": "🔞大地资源"
     },
     "semaozy1.com": {
-      "_comment": "无法搜索",
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
       "name": "🔞色猫资源"
     },
     "aosikazy.com": {
-      "_comment": "禁止搜索结果",
       "api": "https://aosikazy.com/api.php/provide/vod",
       "name": "🔞-奥斯卡-"
     },
     "siwazyw.tv": {
-      "_comment": "污染搜索结果",
       "api": "https://siwazyw.tv/api.php/provide/vod",
       "name": "🔞丝袜资源"
     }
