@@ -18,6 +18,7 @@
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
+      "detail": "https://bfzy.tv"
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
@@ -151,6 +152,18 @@
     "lovedan.net": {
       "api": "https://lovedan.net/api.php/provide/vod",
       "name": "艾旦影视"
+    },
+    "yayazy3.com": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭资源"
+    },
+    "shandianzy.com": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "suonizy.net": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
     },
     "91md.me": {
       "api": "https://91md.me/api.php/provide/vod",
